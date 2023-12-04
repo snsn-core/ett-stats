@@ -1,2 +1,2 @@
 # ett-stats
-Stats web page for Eleven Table Tennis.
+Personal stats page for Eleven Table Tennis.
